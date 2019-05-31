@@ -1,4 +1,5 @@
-![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
+<a href="https://azuredeploy.net/" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
+
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
